@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta name="description" content="esta es una pagina web hecha en HTML de un servicio de paginas web" />
-    <meta name="keywords" content= "como hacer una página web, necesito una página web que hago" />
+    <meta name="keywords" content= "como hacer una página web, necesito una página web que hago,infonexus " />
     <title>Infonexus (titulo)</title>
     <style>
         body {
